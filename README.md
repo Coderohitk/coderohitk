@@ -21,7 +21,7 @@ Passionate about web development, traveling, and exploring new technologies.
 ---
 
 ### 😂 Meme Time:
-![Coding Meme](./Why-devs-hate-users.png)
+![Coding Meme](./Why-devs-hate-users.jpg)
 
 ---
 
