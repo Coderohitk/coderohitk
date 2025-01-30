@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit Kumar!
 
-<!--
-**Coderohitk/coderohitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web development, traveling, and constantly learning new technologies.
 
-Here are some ideas to get you started:
+### 🌟 About Me:
+- 🔭 I’m currently working on **Front-End and Back-End Web Development projects**.
+- 🌱 I’m learning **C#, ASP.NET, SQL, and advanced JavaScript techniques**.
+- 🎨 I enjoy working with tools like **Figma** to design interactive user experiences.
+- 🌍 My dream travel destinations are **Japan** and **Norway**.
+- 📚 I'm exploring emerging trends in **interaction design** and **voice user interfaces**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do:
+- 👨‍💻 Develop responsive and interactive web applications.
+- 🗂 Build and manage **data-driven websites** using SQL and C#.
+- ✍️ Design aesthetically pleasing and accessible web interfaces.
+- 💬 Share insights and collaborate on exciting projects.
+
+### 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/rohit-kumar/)  
+- [Portfolio Website](https://www.rohitkumar.com) *(Coming Soon!)*  
+
+### ⚡ Fun Fact:
+When I'm not coding, you can find me planning my next travel adventure or watching anime for inspiration! 🎒✈️
+
+---
+
+Thanks for visiting my profile! Let's build something amazing together! 🚀
