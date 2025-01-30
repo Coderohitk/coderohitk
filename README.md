@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about web development, traveling, a
 - 💬 Share insights and collaborate on exciting projects.
 
 ### 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/rohit-kumar/)  
+- [LinkedIn](https://www.linkedin.com/in/rohit-kumar-80757a163/)  
 - [Portfolio Website](https://www.rohitkumar.com) *(Coming Soon!)*  
 
 ### ⚡ Fun Fact:
