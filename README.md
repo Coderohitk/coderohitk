@@ -16,7 +16,7 @@ Passionate about web development, traveling, and exploring new technologies.
 
 ### 📫 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/rohit-kumar-80757a163/)  
-- [Anime Suggestion Website]([https://famous-squirrel-5d5ef7.netlify.app/](https://rohitsinghgrover.com/AnimeSuggestion/))  
+- [Anime Suggestion Website](https://rohitsinghgrover.com/AnimeSuggestion/)
 
 ---
 
